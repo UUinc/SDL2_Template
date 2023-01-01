@@ -1,6 +1,5 @@
 # SDL2 Template
 
-=============
 
 This repository serves as a starting point for projects using the Simple DirectMedia Layer (SDL) library. It includes the SDL2, SDL2_image, SDL2_ttf, and SDL2_mixer libraries, as well as a basic project structure and a Makefile to get you up and running quickly with SDL2.
 
