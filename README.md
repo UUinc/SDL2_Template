@@ -15,7 +15,7 @@ To build and run the project, follow these steps:
 
 1.  Clone this repository to your local machine.
 2.  Navigate to the root of the repository.
-3.  Run `make` to build the project.
+3.  Run `make` or `mingw32-make` to build the project.
 4.  Run `./main` to start the program.
 
 ## Customizing the project
